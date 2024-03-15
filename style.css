@@ -1,0 +1,16 @@
+body{
+    background: #1d2630;
+}
+
+*{
+    color: #fff;
+}
+
+table{
+    color: #fff;
+    background-color: #1d2630;
+}
+
+#Update{
+    display: none;
+}
